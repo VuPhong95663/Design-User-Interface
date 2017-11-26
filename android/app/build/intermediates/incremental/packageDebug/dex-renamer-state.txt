@@ -1,4 +1,4 @@
-#Wed Nov 08 21:51:59 ICT 2017
-base.0=/media/vuphong/Project/ReactNative/Mobile_Shop/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Mon Nov 27 01:23:55 ICT 2017
+base.0=/home/vuphong/Desktop/Design-User-Interface/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.0=/media/vuphong/Project/ReactNative/Mobile_Shop/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.0=/home/vuphong/Desktop/Design-User-Interface/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

@@ -1,5 +1,5 @@
 {
-  "name": "Mobile_Shop",
+  "name": "MyShop",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -7,16 +7,20 @@
     "test": "jest"
   },
   "dependencies": {
-    "native-base": "^2.3.3",
-    "react": "16.0.0",
-    "react-native": "0.50.1",
-    "react-navigation": "^1.0.0-beta.19"
+    "react": "16.0.0-alpha.6",
+    "react-native": "0.43.3",
+    "react-native-back-android": "^3.1.0",
+    "react-native-drawer": "^2.3.0",
+    "react-native-maps": "0.13.0",
+    "react-native-swiper": "^1.5.4",
+    "react-native-tab-navigator": "^0.3.3"
   },
   "devDependencies": {
-    "babel-jest": "21.2.0",
-    "babel-preset-react-native": "4.0.0",
-    "jest": "21.2.1",
-    "react-test-renderer": "16.0.0"
+    "babel-jest": "19.0.0",
+    "babel-preset-react-native": "1.9.1",
+    "eslint-config-rallycoding": "^3.2.0",
+    "jest": "19.0.2",
+    "react-test-renderer": "16.0.0-alpha.6"
   },
   "jest": {
     "preset": "react-native"
